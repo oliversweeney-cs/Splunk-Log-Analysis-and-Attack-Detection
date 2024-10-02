@@ -1,4 +1,4 @@
-# Splunk Data Analysis and Attack Detection
+# Splunk Log Analysis and Attack Detection
 
 ## Objective
 
